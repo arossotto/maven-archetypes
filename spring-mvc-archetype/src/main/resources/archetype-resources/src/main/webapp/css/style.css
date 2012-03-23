@@ -1,0 +1,13 @@
+#loginBox{
+	width:20em;
+}
+
+#loginBox .label{
+	float:left;
+	margin-right:1em;
+	width:5em;
+}
+
+#loginBox input{
+	width:10em;
+}
